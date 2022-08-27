@@ -6,5 +6,5 @@ theSimonSayGame
   <img src ="./logo.png" alt="pic_LOGO" />
 <div>
 
-Press A button -> Start Game
+Press A key -> Start Game
 Remember blink color and press button, wrong button Game Over.
